@@ -4,9 +4,9 @@
     --cor-de-fundo: #000000;
     --verde: #0004ff;
     --branco: #ffffff;
-    --botao-ativo: #f30000;
+    --botao-ativo: #ff0000;
     --botao-inativo: rgb(76, 0, 255);
-    --texto-fundo: rgb(0, 26, 255);
+    --texto-fundo: rgb(0, 60, 255);
 }
 
 body {
